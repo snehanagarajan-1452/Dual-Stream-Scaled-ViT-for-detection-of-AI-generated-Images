@@ -83,8 +83,8 @@ project/
 
 *(Add actual metrics here)*
 
-* Accuracy: XX%
-* Loss: XX
+* Accuracy: 89.41%
+* Loss: 0.0572
 
 ---
 
@@ -111,11 +111,6 @@ Open the notebook in Jupyter or Google Colab:
 notebooks/Genai_final_ViT.ipynb
 ```
 
----
-
-## Colab Link
-
-(Add your Colab link here)
 
 ---
 
